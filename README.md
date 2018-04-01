@@ -9,7 +9,7 @@ My attempts haven't been succesful so far. Given the very limited comments regar
 
 To run the code:
 
-python run_training.py
+> python run_training.py
 
 This assumes that you have all the packages installed, which I am too lazy to list - python will tell you.. 
 
