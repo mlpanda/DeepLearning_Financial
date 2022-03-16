@@ -89,6 +89,8 @@ for n in range(num_iterations):
     feats_validate = validate.as_matrix().astype(np.float)
     feats_test = test.as_matrix().astype(np.float)
 
+    # 이해완료
+
     # ---------------------------------------------------------------------------
     # ----------------------- STEP 2.0: NORMALIZE DATA --------------------------
     # ---------------------------------------------------------------------------

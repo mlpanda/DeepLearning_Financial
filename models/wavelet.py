@@ -14,3 +14,5 @@ def waveletSmooth( x, wavelet="db4", level=1, DecLvl=2, title=None):
     # reconstruct the signal using the thresholded coefficients
     y = pywt.waverec( coeff, wavelet, mode="per" )
     return y
+
+#Code Review completed
